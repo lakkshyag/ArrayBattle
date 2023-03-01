@@ -14,7 +14,7 @@ Or the player can choose to go with their original roll.
 From Round 7 onwards, every roll will be a guaranteed critical roll. From Round 14 onwards, players will only be able to attack.
 
 
-
+"ArrayBattle.cpp" is the main file which dictates the overall flow of the game and "baseFunctions.cpp" is the file from which the functions for attacking/defending and the other bonuses are used.
 
 The base idea of this game was given as an assignment but the critical, bonuses and other features were added by me to made the game more engaging.
 
